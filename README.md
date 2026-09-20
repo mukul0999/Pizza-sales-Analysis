@@ -41,7 +41,7 @@
 
 | ETL / Cleaning | Analysis | Visualization |
 |----------------|----------|----------------|
-| SQL (joins, filters, aggregates) | Excel (pivot tables, lookups) | Excel Dashboards |
+| SQL (joins, filters, aggregates) | | PPT |
 
 ---
 
